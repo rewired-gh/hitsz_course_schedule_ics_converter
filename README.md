@@ -20,6 +20,7 @@
 - `REQUEST_DATA`：指定学年和学期，请仿照 `REQUEST_DATA_EXAMPLE` 进行设置。
 - `START_DATE`：该学期开始日期。
 - `CALENDAR_NAME`：ICS 文件名。
+- `ALARMS`：日程提醒，如不需要提醒可设置为空列表。
 
 ## 运行
 
