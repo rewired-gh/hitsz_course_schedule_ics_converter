@@ -23,4 +23,4 @@
 
 ## 运行
 
-打开 Jupyter Notebook `exp.ipynb`，然后运行所有 cells。关于 Jupyter Notebook 的使用方法此处不作教学。
+打开 Jupyter Notebook `exp.ipynb`，然后运行所有 cells，最终会在项目目录下生成一个 ICS 文件。关于 Jupyter Notebook 的使用方法此处不作教学。
