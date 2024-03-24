@@ -9,8 +9,8 @@
 
 ## 初始化项目
 
-1. 执行 `poetry install`
-2. （可选）自己使用浏览器抓包，将对于路径 `http://jw.hitsz.edu.cn/xszykb/queryxszykbzong` 的请求进行捕获或回放，然后把得到的 JSON 文件放在 `./general_schedule.json`
+1. 执行 `poetry install`。
+2. （可选）自己使用浏览器抓包，将对于路径 `http://jw.hitsz.edu.cn/xszykb/queryxszykbzong` 的请求进行捕获或回放，然后把得到的 JSON 文件放在 `./general_schedule.json`。
 
 ## 配置
 
