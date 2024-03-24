@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "course-cal-conv"
+version = "0.1.0"
+description = ""
+authors = ["Takehana <cowpowermax@pm.me>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+ics = "^0.7.2"
+ipykernel = "^6.29.3"
+requests = "^2.31.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
