@@ -9,7 +9,7 @@ readme = "README.md"
 python = "^3.12"
 ics = "^0.7.2"
 ipykernel = "^6.29.3"
-requests = "^2.31.0"
+requests = "^2.32.0"
 beautifulsoup4 = "^4.12.3"
 
 
